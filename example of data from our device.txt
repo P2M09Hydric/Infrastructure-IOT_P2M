@@ -1,0 +1,24 @@
+[
+    {
+        "type": "uplink",
+        "payload": {
+            "adr": false,
+            "applicationID": "1",
+            "applicationName": "FirstApp",
+            "data": "B2cBPg==",
+            "devEUI": "70b3d5499b4958e1",
+            "deviceName": "PycomLopy4",
+            "fCnt": 346,
+            "fPort": 2,
+            "object": {
+                "temperatureSensor": {
+                    "7": 31.8
+                }
+            },
+            "txInfo": {
+                "dr": 5,
+                "frequency": 868100000
+            }
+        }
+    }
+]
